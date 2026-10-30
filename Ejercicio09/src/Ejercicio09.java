@@ -51,5 +51,10 @@ public class Ejercicio09 {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+Introduzca cantidad de asistencias: 69
+Introduzca la nota del examen Continuo: 5
+Introduzca la nota del examen final: 6
+Su nota final es de: 5,5
+Usted debe rendir supletorio
+BUILD SUCCESSFUL (total time: 13 seconds)
  */
